@@ -1,6 +1,9 @@
 # lesson 7 task 2
 
+Stwórz input typu text o atrybucie data-test="todo-input" oraz button o atrybucie data-test="todo-add".
 
+Następnie spraw, aby po wpisaniu tekstu w input oraz kliknięciu w przycisk, wywołany został request typu POST przy użyciu Axiosa na endpoint: https://jsonplaceholder.typicode.com/posts
+Funkcja, która odpala request powinna nazywać się "addTodoElem".
 
 ## Getting started
 
