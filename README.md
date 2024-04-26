@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # lesson 7 task 2
 
 Stwórz input typu text o atrybucie data-test="todo-input" oraz button o atrybucie data-test="todo-add".
